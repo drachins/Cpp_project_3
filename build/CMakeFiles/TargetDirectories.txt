@@ -1,0 +1,3 @@
+/Users/davidrachinsky/udacity_ws/project3/CppND-Memory-Management-Chatbot/build/CMakeFiles/rebuild_cache.dir
+/Users/davidrachinsky/udacity_ws/project3/CppND-Memory-Management-Chatbot/build/CMakeFiles/edit_cache.dir
+/Users/davidrachinsky/udacity_ws/project3/CppND-Memory-Management-Chatbot/build/CMakeFiles/membot.dir
